@@ -1,0 +1,7 @@
+C:\Users\Tarishi Pandya\source\repos\Lab2DataSet\Lab2DataSet\bin\Debug\Lab2DataSet.exe.config
+C:\Users\Tarishi Pandya\source\repos\Lab2DataSet\Lab2DataSet\bin\Debug\Lab2DataSet.exe
+C:\Users\Tarishi Pandya\source\repos\Lab2DataSet\Lab2DataSet\bin\Debug\Lab2DataSet.pdb
+C:\Users\Tarishi Pandya\source\repos\Lab2DataSet\Lab2DataSet\obj\Debug\Lab2DataSet.csprojAssemblyReference.cache
+C:\Users\Tarishi Pandya\source\repos\Lab2DataSet\Lab2DataSet\obj\Debug\Lab2DataSet.csproj.CoreCompileInputs.cache
+C:\Users\Tarishi Pandya\source\repos\Lab2DataSet\Lab2DataSet\obj\Debug\Lab2DataSet.exe
+C:\Users\Tarishi Pandya\source\repos\Lab2DataSet\Lab2DataSet\obj\Debug\Lab2DataSet.pdb
