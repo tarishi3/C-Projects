@@ -1,0 +1,15 @@
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.exe.config
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.exe
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\bin\Debug\EmployeeInfo.pdb
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\bin\Debug\EntityFramework.dll
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\bin\Debug\EntityFramework.xml
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csprojAssemblyReference.cache
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.GUI.FormEmployee.resources
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.Properties.Resources.resources
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csproj.GenerateResource.cache
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csproj.CoreCompileInputs.cache
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.csproj.CopyComplete
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.exe
+C:\Users\Tarishi Pandya\source\repos\EmployeeInfo\EmployeeInfo\obj\Debug\EmployeeInfo.pdb

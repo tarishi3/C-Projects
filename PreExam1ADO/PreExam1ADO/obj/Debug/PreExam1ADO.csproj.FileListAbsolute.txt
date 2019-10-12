@@ -1,0 +1,22 @@
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.csprojAssemblyReference.cache
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.Gui.FormLogin.resources
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.Properties.Resources.resources
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.csproj.GenerateResource.cache
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.csproj.CoreCompileInputs.cache
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\bin\Debug\PreExam1ADO.exe.config
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\bin\Debug\PreExam1ADO.exe
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\bin\Debug\PreExam1ADO.pdb
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.exe
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.pdb
+C:\Users\sudee\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.Gui.FormBooks.resources
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\bin\Debug\PreExam1ADO.exe.config
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\bin\Debug\PreExam1ADO.exe
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\bin\Debug\PreExam1ADO.pdb
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.csprojAssemblyReference.cache
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.Gui.FormBooks.resources
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.Gui.FormLogin.resources
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.Properties.Resources.resources
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.csproj.GenerateResource.cache
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.csproj.CoreCompileInputs.cache
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.exe
+C:\Users\Tarishi Pandya\source\repos\PreExam1ADO\PreExam1ADO\obj\Debug\PreExam1ADO.pdb
